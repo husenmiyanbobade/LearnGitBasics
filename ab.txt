@@ -1,2 +1,2 @@
 Here i am.
-This is the code to test Merge Conflict
+Here is another line for checking the merge conflict.
