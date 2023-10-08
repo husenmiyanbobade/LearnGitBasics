@@ -1,1 +1,2 @@
 Here i am.
+Here is another line for checking the merge conflict.
